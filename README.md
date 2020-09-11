@@ -24,3 +24,10 @@ I store the ccs that I think improves discord here
 ![Dnd](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/Dnd.PNG)
 ![Offline](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/Ofline.PNG)
 ![CS](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/CustomStatus.PNG)
+
+
+
+
+
+# OSXcord
+![OSXclick](https://cdn.discordapp.com/attachments/542864483543023646/745795334956908684/unknown.png)
