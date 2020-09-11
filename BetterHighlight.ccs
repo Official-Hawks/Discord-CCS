@@ -1,0 +1,81 @@
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 9:33:37 AM
+ * Created by Soheab_#6240 (150665783268212746)
+ * Snippet ID: 751150576288399483
+ */
+/*gradient buttons in user context menu */
+#user-context .separator-2I32lJ {
+    display: none;
+  }
+  #user-context .focused-3afm-j {
+    background: linear-gradient(45deg, #2b45a2, #7289da);
+  }
+  #user-context .focused-3afm-j#user-context-mention {
+    background: linear-gradient(45deg, #faa61a, #fbc05e); /* this is the border colors on the left when someone mentions you */
+  }
+  #user-context .focused-3afm-j#user-context-invite-to-listen {
+    background: linear-gradient(45deg, #1DB954, #77d598);
+  }
+  #user-context .focused-3afm-j#user-context-mute { /*remove if you don't like mute being black-ish.*/
+    background: linear-gradient(45deg, #000000, #4c4c4c); 
+  }
+  #user-context .focused-3afm-j#user-context-remove-friend { /*remove if you don't like remove-friend being red.*/
+    background: linear-gradient(45deg, #aa0e0e, #f04747);
+  }
+  #user-context .focused-3afm-j#user-context-call {
+    background: linear-gradient(45deg, #33DC51, #70e685);
+  }
+  #user-context .focused-3afm-j#user-context-block { /*remove if you don't like block being red.*/
+    background: linear-gradient(45deg, #aa0e0e, #f04747);
+  }
+  #user-context .focused-3afm-j#user-context-kick {
+    background: linear-gradient(45deg, #aa0e0e, #f04747);
+  }
+  #user-context .focused-3afm-j#user-context-ban {
+    background: linear-gradient(45deg, #aa0e0e, #f04747);
+  }
+/** 751150576288399483 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 9:33:56 AM
+ * Created by Kanin#0001 (173237945149423619)
+ * Snippet ID: 751027104841465876
+ */
+#guild-header-popout .separator-2I32lJ {
+  display: none;
+}
+#guild-header-popout .focused-3afm-j {
+  background: linear-gradient(45deg, #2b45a2, #7289da);
+}
+#guild-header-popout .focused-3afm-j#guild-header-popout-premium-subscribe {
+  background: linear-gradient(45deg, #f300ea, #ff73fa);
+}
+#guild-header-popout .focused-3afm-j#guild-header-popout-leave {
+  background: linear-gradient(45deg, #aa0e0e, #f04747);
+}
+/** 751027104841465876 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 9:34:10 AM
+ * Created by Kanin#0001 (173237945149423619)
+ * Snippet ID: 751018906692616222
+ */
+#status-picker .separator-2I32lJ, #status-picker .description-2L932D {
+  display: none;
+}
+#status-picker .focused-3afm-j {
+  background: linear-gradient(45deg, #2b45a2, #7289da);
+}
+#status-picker .focused-3afm-j#status-picker-online {
+  background: linear-gradient(45deg, #21583f, #43b581);
+}
+#status-picker .focused-3afm-j#status-picker-idle {
+  background: linear-gradient(45deg, #915c03, #faa61a);
+}
+#status-picker .focused-3afm-j#status-picker-dnd {
+  background: linear-gradient(45deg, #aa0e0e, #f04747);
+}
+#status-picker .focused-3afm-j#status-picker-invisible {
+  background: linear-gradient(45deg, #3a4047, #747f8d);
+}
+/** 751018906692616222 */
