@@ -6,5 +6,5 @@
 
 .headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P {
     z-index: 1;
-    background-image: url(https://cdn.naila.bot/Discord/playing-background.svg),linear-gradient(to top right,#1db955,#44fc9d);
+    background-image: url(https://cdn.naila.bot/Discord/playing-background.svg),linear-gradient(to top right,#1db954,#44fc9d);
 }
