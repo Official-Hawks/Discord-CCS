@@ -1,0 +1,53 @@
+#status-picker .separator-2I32lJ, #status-picker .description-2L932D {
+  display: none;
+}
+#status-picker .focused-3afm-j {
+  background: linear-gradient(45deg, #2b45a2, #7289da);
+}
+#status-picker .focused-3afm-j#status-picker-online {
+  background: linear-gradient(45deg, #21583f, #43b581);
+}
+#status-picker .focused-3afm-j#status-picker-idle {
+  background: linear-gradient(45deg, #915c03, #faa61a);
+}
+#status-picker .focused-3afm-j#status-picker-dnd {
+  background: linear-gradient(45deg, #aa0e0e, #f04747);
+}
+#status-picker .focused-3afm-j#status-picker-invisible {
+  background: linear-gradient(45deg, #3a4047, #747f8d);
+}
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 9:42:11 AM
+ * Created by DracoClaw#0065 (341680387979870219)
+ * Snippet ID: 750397351352336605
+ */
+/*Compact Status Menu*/
+.status-1fhblQ, .description-2L932D {
+    display: none;
+}
+.separator-2I32lJ {
+    display: none;
+}
+.mask-1qbNWk.icon-1IxfJ2 {
+    --status-icon-size: 75%;
+    height: var(--status-icon-size); 
+    width: var(--status-icon-size);
+    margin-left: 33%;
+}
+.animatorTop-2Y7x2r.scale-3iLZhb.didRender-33z1u8 > .menu-3sdvDG.styleFixed-sX-yHV > .scroller-3BxosC.thin-1ybCId.scrollerBase-289Jih {
+    display: grid;
+    align-items: center;
+    grid-template-columns: auto auto auto auto;
+    visibility: visible;
+}
+.item-1tOPte.colorDefault-2K3EoJ:nth-of-type(7) {
+    grid-column: 1/5;
+}
+.animatorTop-2Y7x2r.scale-3iLZhb.didRender-33z1u8 {
+    transition: opacity 0.15s linear 0s;
+}
+.customText-tY5LJn {
+    font-size: 15px;
+}
+/** 750397351352336605 */
