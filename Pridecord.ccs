@@ -1,0 +1,175 @@
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 10:03:07 AM
+ * Created by AAGaming#9395 (373833473091436546)
+ * Snippet ID: 749464499232178208
+ */
+body {
+    background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    padding-top: 2px;
+    backdrop-filter: blur(1px) brightness(0.5);
+    animation: gradient-border 6s linear infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes gradient-border {
+    0%, 100% {
+        background-position: 0 0;
+    }
+
+    99.999999999999999% {
+        background-position: 130% 0;
+    }
+}
+
+#app-mount {
+   height: calc(100% - 6px);
+}
+/** 749464499232178208 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 10:11:08 AM
+ * Created by Fahrenheight#0001 (239824092239233024)
+ * Snippet ID: 745467860801028158
+ */
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;}
+  
+}
+
+.usernameContainer-1fp4nu .title-eS5yk3 {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+/** 745467860801028158 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 10:12:03 AM
+ * Created by sanana the skenana#8689 (326359466171826176)
+ * Snippet ID: 726131827051462787
+ */
+@keyframes pride {
+        100%,0%{
+            color: rgb(255,0,0);
+        }
+        8%{
+            color: rgb(255,127,0);
+        }
+        16%{
+            color: rgb(255,255,0);
+        }
+        25%{
+            color: rgb(127,255,0);
+        }
+        33%{
+            color: rgb(0,255,0);
+        }
+        41%{
+            color: rgb(0,255,127);
+        }
+        50%{
+            color: rgb(0,255,255);
+        }
+        58%{
+            color: rgb(0,127,255);
+        }
+        66%{
+            color: rgb(0,0,255);
+        }
+        75%{
+            color: rgb(127,0,255);
+        }
+        83%{
+            color: rgb(255,0,255);
+        }
+        91%{
+            color: rgb(255,0,127);
+        }
+}
+
+.button-14-BFJ{
+  transition: 0.2s;
+}
+.button-14-BFJ:hover{
+  padding-bottom: 5px;
+  transition: 0.2;
+  animation-name: pride;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+}
+/** 726131827051462787 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 10:12:34 AM
+ * Created by rob#0005 (194474365646012416)
+ * Snippet ID: 556905668817321984
+ */
+@keyframes rainbow {
+    from {filter: hue-rotate(0deg);}
+    to {filter: hue-rotate(360deg);}
+}
+.mention, .wrapper-3WhCwL {
+    background: rgba(0, 200, 255, 0) !important;
+    color: #00e5ff !important;
+    border-color: #00e5ff !important;
+    animation: rainbow 6s infinite linear !important;
+}
+/** 556905668817321984 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 10:14:14 AM
+ * Created by Fahrenheight#0001 (239824092239233024)
+ * Snippet ID: 748717242543243265
+ */
+@keyframes rainbow-bar {
+    from {background-color: #6666ff;}
+    10% {background-color: #0099ff;}
+    50% {background-color: #00ff00;}
+    75% {background-color: #ff3399;}
+    100% {background-color: #6666ff;}
+}
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;} 
+}
+
+.powercord-spotify .spotify-seek-bar-progress {
+    animation: rainbow-bar 10s ease-in-out infinite; 
+}
+.title-eS5yk3, .button-14-BFJ, .subtext-3CDbHg, .customStatus-3tC2ig, .hovered-d5PMVU, .usernameContainer-1fp4nu .title-eS5yk3, .powercord-spotify .spotify-buttons .contents-18-Yxp, .button-38aScr {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+/** 748717242543243265 */
+
+/**
+ * Snippet from #css-snippets applied the Sep 11, 2020 at 10:15:16 AM
+ * Created by Ashley~#9839 (741748217942769785)
+ * Snippet ID: 744604855452041302
+ */
+.avatarSpeaking-3MqCHL {
+    box-shadow: inset 0 0 0 2px cyan,inset 0 0 0 3px var(--background-secondary);
+    animation: boxshadow 3s linear infinite;
+}
+
+@keyframes boxshadow {
+    0%, 100% {
+        box-shadow: inset 0 0 0 2px cyan,inset 0 0 0 3px var(--background-secondary);;
+    }
+    25% {
+        box-shadow: inset 0 0 0 2px lime,inset 0 0 0 3px var(--background-secondary);;;
+    }
+    50% {
+       box-shadow: inset 0 0 0 2px yellow,inset 0 0 0 3px var(--background-secondary);;; 
+    }
+    75% {
+        box-shadow: inset 0 0 0 2px red,inset 0 0 0 3px var(--background-secondary);;;
+    }
+}
+/** 744604855452041302 */
