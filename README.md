@@ -19,3 +19,8 @@ I store the ccs that I think improves discord here
 
 
 # Better Status Picker
+![Online](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/Online.png)
+![Idle](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/Idle.PNG)
+![Dnd](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/Dnd.PNG)
+![Offline](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/Ofline.PNG)
+![CS](https://github.com/Clyde-Beep/Discord-CCS/blob/master/BetterStatusPickerImgs/CustomStatus.PNG)
