@@ -1,0 +1,38 @@
+.menu-3sdvDG {
+    background: rgba(0,0,0,.3);
+    border-radius: 8px;
+    box-shadow: none
+}
+.menu-3sdvDG:before {
+    content: "";
+  position: absolute;
+    backdrop-filter: blur(50px) contrast(.8);
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
+.labelContainer-1BLJti {
+    font-size: 14px;
+    padding: 4px 8px;
+    min-height: 18px;
+    border-radius: 5px;
+}
+.colorDefault-2K3EoJ {
+    color: #fff;
+}
+.colorDefault-2K3EoJ.focused-3afm-j {
+    background: rgb(10,132,225);
+}
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+    background: rgb(0,112,205);
+}
+.separator-2I32lJ {
+    border-bottom: 1px solid rgba(255,255,255,.15);
+}
+.disabled-1WRMNA {
+    opacity: .2;
+}
+.button-F9qN4n {
+    background: none;
+    backdrop-filter: brightness(1.3);
+}
