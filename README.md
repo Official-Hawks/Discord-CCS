@@ -31,3 +31,10 @@ I store the ccs that I think improves discord here
 
 # OSXcord
 ![OSXclick](https://cdn.discordapp.com/attachments/542864483543023646/745795334956908684/unknown.png)
+
+
+
+
+
+# Pridecord
+no imgs
